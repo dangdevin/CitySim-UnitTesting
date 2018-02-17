@@ -1,4 +1,4 @@
-class City
+class Location
 	# Create a new city
 
 	@locations = nil
@@ -11,3 +11,5 @@ class City
 	cathedralLocation = ["Fourth Ave", "Bar St."]
 	hillmanLocation = ["Fifth Ave", "Foo St."]
 	museumLocation = ["Fifth Ave", "Bar St."]
+
+end
